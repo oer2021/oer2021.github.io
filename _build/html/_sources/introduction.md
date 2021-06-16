@@ -1,4 +1,4 @@
-Introduction
+Introducción
 ============================
 
 Los recursos educativos abiertos (OER) son un concepto de amplio potencial en la

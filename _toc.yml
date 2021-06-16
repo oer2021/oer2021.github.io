@@ -3,3 +3,6 @@ root: intro
 sections:
 - file: introduction
 - file: objetives
+- file: resultados
+- file: descripcion
+- file: cronograma

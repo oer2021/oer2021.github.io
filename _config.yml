@@ -4,6 +4,7 @@
 title:  OER’s Reuse UTPL
 author: OER’s Reuse UTPL
 logo: logo.jpg
+copyright: "2021"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
